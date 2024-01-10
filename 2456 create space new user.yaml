@@ -1,0 +1,16 @@
+appId: null
+---
+- tapOn:
+    id: "librarySpacesTabButton"
+- tapOn: "Share your Blinks for free! Learn how here."
+- tapOn: "Dismiss screen"
+- tapOn: "Create Space"
+- tapOn: "Eve"
+- inputText: "tester"
+- tapOn: "Next"
+- tapOn: "eg. Book club"
+- inputText: "New Space"
+- tapOn: "Next"
+- tapOn: "Next"
+- tapOn: "Share link"
+- tapOn: "Close"

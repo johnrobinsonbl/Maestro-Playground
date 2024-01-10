@@ -1,0 +1,11 @@
+appId: com.blinkslabs.Blinkist
+---
+- tapOn:
+    id: "loginButton"
+- tapOn:
+    id: "loginEmailTextField"
+- inputText: "jrmaestropr1@blinki.st"
+- tapOn:
+    id: "loginEmailPasswordTextField"
+- inputText: "qwertyuiop"
+- tapOn: "Log in with email"
